@@ -48,7 +48,7 @@ export async function Profile({
     <div className={styles.grid}>
       <Block className={styles.header} variant="medium-gray">
         <h1 className={styles.title}>
-          <span>Welcome to the Vercelian profile page of </span>
+          <span>Welcome to the Vercelian profile page of the great... </span>
           <strong>
             {firstName}
             <br />
